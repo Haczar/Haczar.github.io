@@ -4193,12 +4193,13 @@ a {
 .cid-spvoM6wMDD .mbr-text {
   color: #ffcc00;
 }
-.cid-spvoM6wMDD .video-container iframe {
-  position: absolute;
+.cid-spvoM6wMDD .video-container {
+  position: relative;
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 200%;
+  overflow: hidden;
 }
 .cid-spvggcmzl9 {
   padding-top: 0px;
