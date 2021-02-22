@@ -1192,7 +1192,7 @@ a {
   text-align: center;
 }
 .cid-smFOFPmgti .carousel-item .wrap-img img {
-  max-height: 250px;
+  max-height: 500px;
   width: auto;
   max-width: 100%;
 }
@@ -1700,10 +1700,12 @@ a {
 }
 .cid-spMEpcN9WV .mbr-section-title {
   color: #ffcc00;
+  text-align: center;
 }
 .cid-spMEpcN9WV .mbr-text,
 .cid-spMEpcN9WV .mbr-section-btn {
   color: #ffffff;
+  text-align: center;
 }
 .cid-spMomhbWAM {
   padding-top: 120px;
