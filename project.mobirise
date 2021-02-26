@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "BlogProjectWriteUp.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "solutionm4",
       "title": "SolutionM4",
@@ -5891,7 +5891,7 @@
       "settings": {
         "main": true,
         "title": "Haczar's Homepage",
-        "meta_descr": "Oh hi! Didn't see you there... Come in get comfortable and check out some cool stuff if you wanna geek out. Trying to take over the virtual world one application at a time. ",
+        "meta_descr": "Haczar Criollo | XR Developer & Technical Artist | Portfolio and Blog\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
